@@ -1,2 +1,68 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Robert Lewandowski </title>
+    <style>
+      
+      body{
+          color: white; 
+          background-color: red;
+          text-align: left;
+          font-weight: 300;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-size: 25px;
+      }
+      hr{
+        border: 3px solid white;
+      }
+      img{
+          width: 550px;
+          height: 550px;
+          margin-left: 500px;
+          margin-right: 500px;
+      } 
+      td, th { border: 3px solid white;
+        text-align-last: center;
+        } 
+    </style>
+</head>
+<body>
+Robert Lewandowski <br>
+<p>Początek:</p>
+<hr>
+Robert Lewandowski – polski piłkarz, występujący na pozycji napastnika w niemieckim klubie Bayern Monachium oraz w reprezentacji Polski, której jest kapitanem. Przez niektórych uważany za jednego z najlepszych piłkarzy na świecie i jednego z najlepszych środkowych napastników w historii.
+<br><br>
+<img src= http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSAWzQSXkqIrB1vAcwCuhsSZD7IYMDFDEIE5K0XHm0GfT7ux_1SKZHEiohrrQCX />
+<br><br>
+
+
+<br><br>
+<hr>
+<p> Statystyki: </p>
+<table>
+    <thead>
+       <tr> <th> Sezon <th> Gole <th> Asysty <th> Kartki <th> Mecze
+    <tbody>
+      <tr> <th> 2014-15 <td> 25 <td> 13 <td> 1 <td> 49
+      <tr> <th> 2015-16 <td> 42 <td> 6 <td> 4 <td> 51
+      <tr> <th> 2016-17   <td> 43 <td> 9  <td> 5 <td> 47
+      <tr> <th> 2017-18  <td> 41 <td> 5 <td> 6 <td> 48
+     <tr> <th> 2018-19  <td> 40 <td> 13  <td> 6 <td> 47
+     <tr> <th> 2019-20  <td> 55 <td> 10  <td> 7 <td> 47
+     <tr> <th> 2020-21  <td> 48 <td> 9  <td> 4 <td> 40
+     <tr> <th> 2021-22  <td> 35 <td> 3  <td> 1 <td> 29
+ </table>
+ <br><br>
+ Zespoły w których grał Robert Lewandowski:
+ <ul>
+    <li>Znicz Pruszków</li>
+    <li>Lech Poznań</li>
+    <li>Borussia Dortmund</li>
+    <li>Bayern Monachium</li>
+</ul> 
+
+</body>
+</html>
